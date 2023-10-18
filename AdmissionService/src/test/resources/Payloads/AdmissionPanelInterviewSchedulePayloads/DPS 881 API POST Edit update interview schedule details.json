@@ -1,0 +1,32 @@
+{
+    "interviewDate": "2023-06-29T00:00:00",
+    "fromTimeSlot": "02:52 AM",
+    "toTimeSlot": "10:52 AM",
+    "meetingLink": "",
+    "meetingId": "#202310",
+    "meetingPassword": "STA@123",
+    "admissionPanelInterviewScheduleDetailsDTOS": [
+        {
+            "id": 26701,
+            "studentRegistrationId": 21002,
+            "admissionCancel": "NO",
+            "reason": null,
+            "meetingLink": "https://us04web.zoom.us/j/79447459510?pwd=gAaejL7cAHfbObqbbZ1XlRUMiRXATW.1",
+            "meetingId": "794 4745 9510",
+            "meetingPassword": "Pass@123",
+            "timeSlot": ":11:30 AM",
+            "scheduleMode": "VIRTUAL"
+        },
+        {
+            "id": 26702,
+            "studentRegistrationId": 21424,
+            "admissionCancel": "NO",
+            "reason": null,
+            "meetingLink": "https://us04web.zoom.us/j/79447459510?pwd=gAaejL7cAHfbObqbbZ1XlRUMiRXATW.1",
+            "meetingId": "794 4745 9510",
+            "meetingPassword": "Pass@123",
+            "timeSlot": ":11:30 AM",
+            "scheduleMode": "VIRTUAL"
+        }
+    ]
+}

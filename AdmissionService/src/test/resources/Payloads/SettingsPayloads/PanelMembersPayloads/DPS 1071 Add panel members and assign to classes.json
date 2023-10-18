@@ -1,0 +1,9 @@
+{
+    "instituteId": 1,
+    "academicYearId": 2,
+    "branchId": 1,
+    "curriculumId": 1,
+    "classIds": "1,2,4",
+  
+    "employeeIds": "235,236,238"
+}

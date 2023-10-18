@@ -1,0 +1,14 @@
+{
+    "academicYearId": 4,
+    "curriculumId": 1,
+    "classData": [
+        {
+            "classId": 1,
+            "availabilityStatus": "Yes"
+        },
+        {
+            "classId": 2,
+            "availabilityStatus": "Yes"
+        }
+    ]
+}

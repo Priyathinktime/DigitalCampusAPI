@@ -1,0 +1,58 @@
+{
+    
+    "isFatherEmployeeOfSchool": true,
+    "fatherEmployeeId": 2,
+    "fatherEmployeeCode": "NHTR0030",
+    "fatherName": "Mr..NAGENDER",
+  
+    "fatherEmail": "Akulapratima11@gmail.com",
+    "fatherPhoneNo": "9949404242",
+    "fatherQualificationId": 0,
+    "fatherOccupationId": 0,
+    "fatherNationalityId": 0,
+    "fatherCompany": "",
+    "fatherDesignationId": 0,
+    "fatherAnnualIncome": "",
+    "fatherOfficeLocation": "",
+    "fatherContributeStakeHolder": [
+        ""
+    ],
+ 
+    "isMotherEmployeeOfSchool": false,
+    "motherEmployeeId": 0,
+    "motherEmployeeCode": "",
+    "motherName": "Mr..J S MURTHY",
+    
+    "motherEmail": "shobha4art@gmail.com",
+    "motherPhoneNo": "9000352847",
+    "motherQualificationId": 1,
+    "motherOccupationId": 1,
+    "motherNationalityId": 1,
+    "motherCompany": "TCS",
+    "motherDesignationId": 1,
+    "motherAnnualIncome": "7,00,000",
+    "motherOfficeLocation": "Nadergul",
+    "motherContributeStakeHolder": [
+        "Professional",
+        "Academic",
+        "Social Skills"
+    ],
+    "isMotherSingleParent": false,
+    "singleParentType": "",
+   
+    "isGuardianPresent": true,
+    "guardianName": "Alex",
+    
+    "guardianEmail": "alexa@gmail.com",
+    "guardianPhoneNo": "986125745",
+    "guardianQualificationId": 1,
+    "guardianOccupationId": 1,
+    "guardianNationalityId": 1,
+    "guardianDesignationId": 1,
+    "relationWithStudent": "Uncle",
+    "guardianContributeStakeHolder": [
+        "Career Counselling",
+        "Painting",
+        "Community Program"
+    ]
+}

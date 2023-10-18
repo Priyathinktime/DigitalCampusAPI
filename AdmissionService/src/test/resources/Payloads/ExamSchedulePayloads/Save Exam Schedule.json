@@ -1,0 +1,45 @@
+{
+    "instituteId": 1,
+    "branchId": 1,
+    "academicYearId": 2,
+    "curriculumId": 1,
+    "classId": 2,
+    "scheduleType": "PHYSICAL",
+    "registrationType": "OFFLINE",
+    "orientation": {
+        "meetingLink": "www.webex.com/1",
+        "meetingId": 1234,
+        "passCode": 222
+    },
+    "examDetails": {
+        "examDate": "2023-06-28",
+        "fromTimeSlot": "08:20 AM",
+        "toTimeSlot": "10:30 AM"
+    },
+    "students": [
+        {
+            "studentRegId": 4,
+            "studentName": "BODA PRERAN KUMAR",
+            "timeSlot": "11:30 AM",
+            "meetingLink": "www.webex.com/2",
+            "meetingId": 12345,
+            "passCode": 3333,
+            "scheduleMode": "Virtual"
+        },
+        {
+            "studentRegId": 5,
+            "studentName": "ARNAV GUJAR",
+            "timeSlot": "11:30 AM",
+            "meetingLink": "www.webex.com/2",
+            "meetingId": 12345,
+            "passCode": 3333,
+            "scheduleMode": "Virtual"
+        }
+    ],
+    "examType": "School",
+    "scheduleFor": "all",
+    "sendSms": false,
+    "sendEmail": true,
+    "userName": "satya15",
+    "userId": 1
+}

@@ -1,0 +1,25 @@
+{
+  "saleFormDetails" : {
+    "instituteId" : 1,
+    "branchId" : 3,
+    "academicYearId" : 2,
+    "curriculumId" : 4,
+    "fullName" : "Kishore2",
+    "dob" : "2000-05-29",
+    "contactNumber" : "9182469709",
+    "gender" : "MALE",
+    "emailId" : "wfsatya2@gmail.com",
+    "contactPerson" : "satya",
+    "admissionClassId" : 44,
+    "secondLanguageId" : 3,
+    "admissionType" : "Residential",
+    "address" : "Nizm2",
+    "country" : "INDIA"
+  },
+  "paymentModeDetails" : {
+    "paymentType" : "PAY",
+    "paymentMode" : "CASH",
+    "applicationFee" : 500,
+    "registrationFee" : 600
+  }
+}

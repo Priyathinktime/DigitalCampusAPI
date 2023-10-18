@@ -1,0 +1,38 @@
+{
+    "instituteId": 1,
+    "branchId": 1,
+    "curriculumId": "1",
+    "classId": "9",
+    "academicYearId": 6,
+    "interviewDetailsDTO": {
+        "interviewDate": "2023-06-29T00:00:00",
+        "fromTimeSlot": "02:52 AM",
+        "toTimeSlot": "10:52 AM",
+        "orientationMeetingLink": "https://www.google.com/",
+        "meetingId": "123456789",
+        "password": "1234567"
+    },
+    "scheduledInterviewStudents": [
+        {
+            "studentRegId": 13388,
+            "meetingLink": "https://www.google.com/",
+            "meetingId": "123456789",
+            "meetingPassword": "hdghkjkjek",
+            "timeSlot": "09:53 AM",
+            "scheduleMode": "PHYSICAL",
+            "admissionCancel": "",
+            "admissionCancelReason": "",
+            "isRescheduled":""
+        }, {
+            "studentRegId": 13387,
+            "meetingLink": "https://www.google.com/",
+            "meetingId": "987654321",
+            "meetingPassword": "AJNDNDJNSN",
+            "timeSlot": ":53 AM",
+            "scheduleMode": "VIRTUAL",
+            "admissionCancel": "",
+            "admissionCancelReason": "",
+            "isRescheduled":""
+        }
+    ]
+}

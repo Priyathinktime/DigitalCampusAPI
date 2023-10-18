@@ -1,0 +1,12 @@
+{
+    "academicYearId": 4,
+    "curriculumId": 1,
+    "branchId": 1,
+    "classId": 1,
+    "approvedStatus": "PENDING", 
+    "searchString": "",
+    "pageNo": 0,
+    "pageSize": 10,
+   
+    "orderType": "desc" 
+}

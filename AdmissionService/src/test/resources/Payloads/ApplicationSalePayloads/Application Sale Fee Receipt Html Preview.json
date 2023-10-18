@@ -1,0 +1,19 @@
+{
+"saleFormDetails": {
+    "instituteId":1,
+    "branchId":3,
+    "academicYearId":2,
+    "curriculumId":4,
+    "fullName": "Satya5",
+    "contactNumber": "9182468785",
+    "contactPerson":"abc5",
+    "admissionClassId": 43
+},
+ "paymentModeDetails": {
+     "paymentType": "PAY",
+     "paymentMode": "CASH",
+     "applicationFee": 501.00,
+     "registrationFee": 101.00
+
+ }
+}

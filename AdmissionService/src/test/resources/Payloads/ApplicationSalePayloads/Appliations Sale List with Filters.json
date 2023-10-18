@@ -1,0 +1,10 @@
+{
+   
+    "academicYearId": "9",
+    "branchId": "1",
+   
+    "pageNo": 0,
+    "pageSize": 20,
+    "orderBy": "ASC",
+    "sortBy": "createdAt"
+}

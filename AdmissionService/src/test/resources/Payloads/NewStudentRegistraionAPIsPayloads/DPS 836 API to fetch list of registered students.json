@@ -1,0 +1,12 @@
+{
+    "branchId": 1,
+    "academicYearId": 4,
+    "curriculumId": 5,
+    "classId": null,
+    "enrollmentNumber": "",
+    "searchString": "",
+    "pageNo": 0,
+    "pageSize": 10,
+    "sortBy": "lastModifiedAt",
+    "orderBy": "asc"
+}

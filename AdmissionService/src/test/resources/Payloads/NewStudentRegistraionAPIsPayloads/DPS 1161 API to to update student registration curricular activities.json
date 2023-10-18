@@ -1,0 +1,20 @@
+[
+    {
+        "coCurricularActivityId": 426,
+        "level": "NATIONAL",
+        "description": "testing",
+        "certificateId": 323
+    },
+    {
+        "coCurricularActivityId": 427,
+        "level": "NATIONAL",
+        "description": "testing",
+        "certificateId": 323
+    },
+    {
+        "coCurricularActivityId": 428,
+        "level": "NATIONAL",
+        "description": "testing",
+        "certificateId": 323
+    }
+]

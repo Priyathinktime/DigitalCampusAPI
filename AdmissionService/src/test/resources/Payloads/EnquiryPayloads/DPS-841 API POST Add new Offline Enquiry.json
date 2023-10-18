@@ -1,0 +1,23 @@
+
+
+{
+    "branchId": 1,
+    "instituteId": 1,
+    "academicYearId": 9,
+    "curriculumId": 5,
+    "parentName": "asd",
+    "eos": false,
+    "employeeId": "",
+    "employeeDepartmentId": "",
+    "emailId": "abc@gmail.com",
+    "contactNumber": 5564649461,
+    "studentName": "asx",
+    "genderId": 1,
+    "dob": "2023-09-05",
+    "classId": 86,
+    "source": "News",
+    "reasonForAdmission": "sads",
+    "curriculumName": " ",
+    "enquiryDate": "2023-09-06T06:00:45.896Z",
+    "classAdmission": "abc"
+}

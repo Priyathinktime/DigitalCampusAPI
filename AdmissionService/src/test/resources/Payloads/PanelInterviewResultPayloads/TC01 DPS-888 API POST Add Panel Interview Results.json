@@ -1,0 +1,19 @@
+{
+    "academicYearId" :3,
+    "branchId": 1,
+    "curriculumId": 1,
+    "classId": 2,
+    "instituteId": 1,
+    "sms" : "Yes",
+    "email" : "Yes",
+    "status":"APPROVED",
+    "studentDTOS": [
+        {
+            "studentRegId": 1,
+            "status": "APPROVED",
+            "remark": "done",
+            "recommendedEmpId" : null,            
+            "admissionType": "Recommended"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "instituteId" : 1,
+  "academicYearId" : 2,
+  "branchId" : 1,
+  "curriculumId" : 1,
+  "classId" : 10,
+  "userName" : "SATYA",
+  "createdBy" : 46,
+  "studentsMarks" : [ {
+    "studentRegId" : 17,
+    "subjects" : [ {
+      "subjectId" : 5,
+      "marks" : 5
+    },
+    {
+      "subjectId" : 6,
+      "marks" : 16
+    },
+    {
+      "subjectId" : 7,
+      "marks" : 10
+    }
+     ],
+    "totalMarks" : 40,
+    "recommended" : "YES",
+    "absent" : "NO"
+  } ]
+}

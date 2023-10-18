@@ -1,0 +1,12 @@
+{"startDate":null,
+"endDate":null,
+"paymentStatus":null,
+"orderBy":"DESC",
+"sortBy":"createdAt",
+"search":"${c_applicationNumber}",
+"academicYearId":8,
+"curriculumId":null,
+"classId":null,
+"pageNo":0,
+"pageSize":10,
+"branchId":1}

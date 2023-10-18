@@ -1,0 +1,22 @@
+{
+    "instituteId": 1,
+    "academicYearId": 8,
+    "branchId": 1,
+    "curriculumId": 1,
+    "admissionClassId": 14,
+    "fullName": "Test-200",
+    "genderId": 1,
+    "dob": "2023-06-19",
+    "contactNumber": "9182469001",
+    "contactPerson": "sfds dff",
+    "emailId": "sdf@gmail.com",
+    "address": "sad",
+    "mode": "Offline",
+    "admissionType": "Residential",
+    "groupId": 75,
+    "optionalSubj1Id": 329,
+    "secondLanguageId": "",
+    "countryId": null,
+    "stateId": "",
+    "districtId": ""
+}

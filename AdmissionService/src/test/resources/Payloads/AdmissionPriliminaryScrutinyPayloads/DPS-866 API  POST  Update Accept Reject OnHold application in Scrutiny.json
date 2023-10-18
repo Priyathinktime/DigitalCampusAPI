@@ -1,0 +1,10 @@
+{
+    "studentRegistrationId": 30023,
+   
+    "recommendedCampus": 1,
+    "isDocumentTicked": false,
+    "isPhotosTicked": false,
+    "isSignatureTicked": false,
+    "remarks": "Accepted",
+    "scrutinyStatus": "ACCEPTED"
+}

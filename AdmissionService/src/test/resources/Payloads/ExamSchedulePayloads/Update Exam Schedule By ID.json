@@ -1,0 +1,19 @@
+{
+    "instituteId": 1,
+    "branchId": 1,
+    "academicYearId": 2,
+    "curriculumId": 1,
+    "classId": 9,
+    "scheduleType": "PHYSICAL",
+    "registrationType": "OFFLINE",
+    "oriMetingLink": null,
+    "meetingId": null,
+    "passcode": null,
+    "fromTimeSlot": null,
+    "toTimeSlot": null,
+    "examType": "School",
+    "scheduleFor": "all",
+    "sendSms": true,
+    "sendEmail": false,
+    "userName": "satya"
+}

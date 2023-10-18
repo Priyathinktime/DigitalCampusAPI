@@ -1,0 +1,11 @@
+{
+  "paymentType" : "PAY",
+  "paymentMode" : "CARD_PAYMENT",
+  "applicationFee" : 100,
+  "registrationFee" : 500,
+  "dpsEmployeeId" : null,
+  "transactionId" : "111",
+  "transactionDate" : "2023-06-24",
+  "bankName" : "SBI",
+  "dpsEmployee" : false
+}

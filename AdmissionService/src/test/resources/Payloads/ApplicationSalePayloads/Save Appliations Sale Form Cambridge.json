@@ -1,0 +1,23 @@
+{
+    "instituteId": 1,
+    "branchId": 2,
+    "academicYearId": 3,
+    "curriculumId": 4,
+    "fullName": "Satya-24",
+    "dob": "2000-07-24",
+    "contactNumber": "9182469724",
+    "genderId": 1,
+    "emailId": "wfsatya24@gmail.com",
+    "contactPerson": "Hanish-24",
+    "admissionClassId": 14,
+    "secondLanguageId": 3,
+    "admissionType": "",
+    "address": "Nizm14",
+    "countryId": 100,
+    "stateId": 37,
+    "districtId": 2,
+    "groupId": 42,
+    "subjectIds": [2,10],
+    "igcseLanguageId": null,
+    "mode": "Offline"
+}

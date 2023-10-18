@@ -1,0 +1,27 @@
+{
+    
+    "curriculumId": 1,
+    "academicYearId": 8,
+    "classIds": [
+        1,
+        2,
+        3
+    ],
+    "groupIds": [
+        74,
+        75
+        
+    ],
+    "admissionExamSubjectReqDTOS": [
+        {
+            "subjectId": 5,
+            "passMarks": 27,
+            "maxMarks": 50
+        },
+        {
+            "subjectId": 6,
+            "passMarks": 12,
+            "maxMarks": 25
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "examScheduleId": 7494,
+	"orientation": {
+        "meetingLink": "www.webex.com/2",
+        "meetingId": 12345,
+        "passcode": 2225
+    },
+    "examDetails": {
+        "examDate": "2023-06-27",
+        "fromTimeSlot": "08:20 AM",
+        "toTimeSlot": "10:30 AM"
+    },
+    "students": [
+        {
+            "studentRegId": 4,
+            "studentName": "BODA PRERAN KUMAR",
+            "timeSlot": "11:31 AM",
+            "meetingLink": "www.webex.com/3",
+            "meetingId": 11115,
+            "passCode": 11115,
+            "scheduleMode": "PHYSICAL"
+        }
+    ],
+    "instituteId": 1,
+    "branchId": 1,
+    "academicYearId": 2,
+    "curriculumId": 1,
+    "classId": 9,
+    "scheduleType": "PHYSICAL",
+    "registrationType": "OFFLINE",
+    "examType": null,
+    "scheduleFor": null,
+    "sendSms": false,
+    "sendEmail": false,
+    "userName": null,
+    "userId": null
+}

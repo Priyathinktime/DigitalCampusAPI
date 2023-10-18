@@ -1,0 +1,68 @@
+[
+    {
+        "academicYear": 2022,
+        "marksRequestVOList": [
+            {
+                "subject": "Math",
+                "maxMarks": "100",
+                "marks": "90",
+                "percentage": "90",
+                "remarks": "Good"
+            },
+            {
+                "subject": "English",
+                "maxMarks": "100",
+                "marks": "95",
+                "percentage": "95",
+                "remarks": "Good"
+            },
+            {
+                "subject": "Science",
+                "maxMarks": "100",
+                "marks": "88",
+                "percentage": "88",
+                "remarks": "Good"
+            },
+            {
+                "subject": "Geography",
+                "maxMarks": "100",
+                "marks": "90",
+                "percentage": "90",
+                "remarks": "Good"
+            }
+        ]
+    },
+    {
+        "academicYear": 2021,
+        "marksRequestVOList": [
+            {
+                "subject": "Math",
+                "maxMarks": "100",
+                "marks": "90",
+                "percentage": "90",
+                "remarks": "Good"
+            },
+            {
+                "subject": "English",
+                "maxMarks": "100",
+                "marks": "95",
+                "percentage": "95",
+                "remarks": "Good"
+            },
+            {
+                "subject": "Science",
+                "maxMarks": "100",
+                "marks": "88",
+                "percentage": "88",
+                "remarks": "Good"
+            },
+            {
+                "subject": "Geography",
+                "maxMarks": "100",
+                "marks": "90",
+                "percentage": "90",
+                "remarks": "Good"
+            }
+        ]
+    }
+]

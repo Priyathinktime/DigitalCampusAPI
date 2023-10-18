@@ -1,0 +1,19 @@
+{
+    "marksEntryId": 7738,
+    "totalMarks": 42,
+    "subjects": [
+        {
+            "subjectId": 6,
+            "marks": 20
+        },
+        {
+            "subjectId": 7,
+            "marks": 22
+        }
+    ],
+    "recommended": "NO",
+    "absent": "NO",
+    "setupPanel": null,
+    "userName": "sATYA-3",
+    "createdBy": 46
+}

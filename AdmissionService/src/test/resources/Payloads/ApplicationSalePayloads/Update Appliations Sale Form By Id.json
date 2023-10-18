@@ -1,0 +1,23 @@
+{
+    "instituteId": 1,
+    "academicYearId": 8,
+    "branchId": 1,
+    "curriculumId": 1,
+    "admissionClassId": 14,
+    "fullName": "Test-220",
+    "genderId": 1,
+    "dob": "2023-06-20",
+    "contactNumber": "9182469020",
+    "contactPerson": "Parent-20",
+    "emailId": "sdf20@gmail.com",
+    "address": "addr-20",
+    "mode": "Offline",
+    "admissionType": "Residential",
+    "groupId": 75,
+    "optionalSubj1Id": 49,
+    "optionalSubj2Id": 51,
+    "secondLanguageId": 3,
+    "countryId": 100,
+    "stateId": 37,
+    "districtId": 2
+}
